@@ -3,6 +3,7 @@
 
 * {
   font-family: poppins;
+-webkit-tap-highlight-color: transparent;
 }
 body {
   background-color: #242424;
